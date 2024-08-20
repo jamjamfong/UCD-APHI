@@ -63,7 +63,7 @@
     text-decoration: none;
 }
 
-.navbar-links:hover{
+.navbar-links:hover, .navbar-links.active{
     text-decoration: underline;
     text-underline-offset: 6px;
 }
